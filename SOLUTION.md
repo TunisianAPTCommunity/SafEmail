@@ -8,4 +8,8 @@ This tool is tied with a back-office/control panel that let a "system administra
 - * view emails details (links, attachments, the reason why the email is blocked for).
 - * report a detected email as a false positive and let it received by the user.
 
+- A simple global SafEmail Architecture
 
+<img src="safemail-global-architecture.png"
+     alt="A simple global SafEmail Architecture"
+     style="float: left; margin-right: 10px;" />
